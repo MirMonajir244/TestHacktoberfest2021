@@ -3,11 +3,32 @@
 <title>  
 Hello World 
 </title>  
-</Head>  
+</Head>
+<div>
 <Body>   
 <!-- In this example we use the anchor tag for linking one page to another by using the href attribute   
 which specify the url of the second page which you want to link.-->    
-<center> Click on <a href="https://www.javatpoint.com/html-favicon"> this link </a> for reading about HTML favicon in JavaTpoint.   
+<center> Click on <a href="https://www.google.com">This link for visiting Google </a> Google.   
 </center>  
+</div>
+<div>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+</div>
 </Body>  
 </Html>  
